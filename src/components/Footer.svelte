@@ -1,5 +1,5 @@
 <footer>
-  <div class="copyright">Copyright 2020 Poll Ninja</div>
+  <div class="copyright">Copyright 2020 Bekzod Baratov</div>
 </footer>
 
 <style>
